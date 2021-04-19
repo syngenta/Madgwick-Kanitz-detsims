@@ -1,0 +1,23 @@
+Package: detsims
+Type: Package
+Title: Deterministic Simulations for Modelling Resistance Evolution 
+Version: 0.1.1
+Author: Philip Madgwick <Philip.Madgwick@syngenta.com>
+Maintainer: Philip Madgwick <Philip.Madgwick@syngenta.com>
+Description: Package detsims is a framework and model for running deterministic simulations of resistance evolution in mosquitoes.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: party, partykit, vioplot (== 0.3.5),
+  viridisLite, matrixStats, pracma,
+  foreach, doParallel, rdryad
+RoxygenNote: 7.1.1
+Collate:
+    'genotypic_values.R'
+    'initialize_femalefitness.R'
+    'initialize_freqset.R'
+    'initialize_malefitness.R'
+    'insecticide_decay.R'
+    'random_mating.R'
+    'reinitialize_freqset.R'
+    'update_strategy.R'
