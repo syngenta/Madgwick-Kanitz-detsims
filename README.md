@@ -13,7 +13,7 @@ published figures.
 install.packages("devtools")
 
 # Install the Syngenta development version from GitLab:
-devtools::install_github("https://github.com/rkanitz/Madgwick-Kanitz-detsims.git")
+devtools::install_github("rkanitz/Madgwick-Kanitz-detsims")
 ```
 
 ## Package structure
