@@ -21,3 +21,5 @@ Collate:
     'random_mating.R'
     'reinitialize_freqset.R'
     'update_strategy.R'
+    'simulator.R'
+
