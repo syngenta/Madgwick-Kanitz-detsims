@@ -43,10 +43,7 @@ dk = 1000000  # constant specifying the decay in the toxicity of the insecticide
 rk = 36  # constant specifying after how many generations a bednet is to be replaced / retreated
 var_comb = 10^6 # number of random samples
 
-# download data from Dryad, if not existing locally
-# # Using Dryad's API for download (not implemented yet)
-# dryad_files_download(dois = "10.5061/dryad.8kprr4xnk")  # TODO: Implement once Dryad dataset is available
-
+# download data from Zenodo, if not existing locally, here: https://doi.org/10.5281/zenodo.5074770
 
 # read in data
 simdata = read.csv("data/PSData_random6.csv")
