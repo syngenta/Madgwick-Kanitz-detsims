@@ -6,6 +6,8 @@ strategies with new insecticides for mosquito control using bed-nets", from
 model definitions, simulation executions and visualization of results, including
 published figures.
 
+The final version of the publication can be found [here](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-022-04083-z)
+
 
 ## Installation
 ```R
