@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Madgwick"
+  given-names: "Philip"
+  orcid: "https://orcid.org/0000-0002-9822-3995"
+- family-names: "Kanitz"
+  given-names: "Ricardo"
+  orcid: "https://orcid.org/0000-0003-4759-0207"
+title: "Modelling new insecticide-treated bed nets for malaria-vector control: how to strategically manage resistance?"
+version: 1.0.0
+doi: 10.1186/s12936-022-04083-z
+date-released: 2022-03-24
+url: "https://github.com/syngenta/Madgwick-Kanitz-detsims"
