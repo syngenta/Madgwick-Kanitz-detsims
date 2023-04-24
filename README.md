@@ -15,7 +15,7 @@ The final version of the publication can be found [here](https://malariajournal.
 install.packages("devtools")
 
 # Install the Syngenta development version from GitLab:
-devtools::install_github("rkanitz/Madgwick-Kanitz-detsims", ref='main')
+devtools::install_github("syngenta/Madgwick-Kanitz-detsims", ref='main')
 ```
 
 ## Package structure
